@@ -27,6 +27,7 @@ that provide a wide variety of services. They are:
         * Unifies several transaction management APIs and coordinates transactions for Java objects.
     7.  Testing
         * Support classes for writing unit tests and integration tests    
+![spring framework runtime](\images\Capture1.PNG)
 ## Spring-IOC and Dependency Injection
 These are the design patterns that are used to remove dependency from the programming code. They make the code easier to test and maintain.
    
@@ -49,6 +50,7 @@ These are the design patterns that are used to remove dependency from the progra
     3.   Controller  
         * is responsible for processing user requests and building appropriate model and passes it to the view for rendering  
 
+![](\images\Capture2.PNG)
 ### Advantages of Spring Framework        
 
     * Predefined Templates
