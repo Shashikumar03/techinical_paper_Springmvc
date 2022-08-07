@@ -50,7 +50,7 @@ These are the design patterns that are used to remove dependency from the progra
     3.   Controller  
         * is responsible for processing user requests and building appropriate model and passes it to the view for rendering  
 
-![mvc components](images\Capture2.png)
+![mvc components](\images\Capture2.png)
 ### Advantages of Spring Framework        
 
     * Predefined Templates
