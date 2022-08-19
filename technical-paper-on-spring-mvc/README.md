@@ -1,11 +1,11 @@
 # Spring MVC framework
 
-Hello readers, Thankyou for giving me time, It would take 5 mins of read, please enjoy yourself the article.
+Hello readers,
 
-A Spring MVC is a Java framework which is used to build web applications. It follows the Model-View-Controller design pattern.
-
-It implements all the basic features of a core spring framework like Inversion of Control, Dependency Injection.
-The framework can be defined as a structure where we can find solutionof the various technical problems. 
+Thankyou for giving me time, It would take 5 mins of read, please enjoy yourself the article.<br />
+A Spring MVC is a Java framework which is used to build web applications. It follows the Model-View-Controller design pattern.<br />
+It implements all the basic features of a core spring framework like Inversion of Control, Dependency Injection.<br />
+The framework can be defined as a structure where we can find solutionof the various technical problems.<br /> 
 Spring Framework is an application framework and inversion of control container for the Java platform.
 
 ## SPRING-Modules
